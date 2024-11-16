@@ -1,0 +1,17 @@
+
+
+h1,h2, div, p, h4 {
+    display: flex;
+    justify-content: center;
+    font-size: 15px;
+}
+
+
+
+img {
+    display: block;
+    width: 200px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}
