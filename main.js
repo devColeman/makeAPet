@@ -34,7 +34,7 @@ status: function(){
 }
 
 
-
+pet.name = prompt("Enter your Pet's name")
 h2.innerText = pet.name;
 hunger.innerText = `Hunger: ${pet.hunger}`
 happiness.innerText = `Happiness: ${pet.happiness}`
